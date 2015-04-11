@@ -1,7 +1,7 @@
 ## Sustainable use of personal data in urban studies
 Open science approach for supporting evidence-based urban planning and decision making.
 
-**Research plan for doctoral thesis [DRAFT 12.3.2015](#)**
+**Research plan for doctoral thesis [DRAFT 25.3.2015](#)**
 Antti Poikola
 Helsinki Institute for Information Technology
 Espoo, Finland
@@ -26,6 +26,8 @@ In urban studies the network metaphor has a long tradition particularly when dea
 In networks higher density of relationships (ties) facilitate the information flow and therefore it is suggested that population density, rather than population size would be at the root of the extraordinary nature of urban centers (Pan et al 2013). Population density is reasonably good proxy for the density of relationships which is harder to measure empirically. There is universal agreement on the fact that populations interact with one another less as the distance increases between them, but the exact relationship between these two variables is unclear (Scellato et al 2011). Denser urban areas (shorter distances between people and places) as well as better urban accessibility (less travel time also in the case of greater physical distances) make it easier and more probable to create relationships. What else contributes to the creation, number and quality of relationships? What kind of physical, social- and cultural arrangements and spaces bring people together and facilitate interaction? Is it possible to have really dense and busy streets that are actually poor in relationships?
 
 #### Data driven research of social interaction in cities
+In the contemporary society, our everyday activities create increasingly detailed digital traces scattered to databases managed by different organizations. This collection of digital records of personal data can be called "digital footprint", i.e. the trail of digital information created about us and by our actions. This digital footprint can tell a lot about the behaviour, characteristics and preferences of an individual and, provided it's accessible in digitally digestible, machine-readable form (Gencoglu et al 2015). There are two main classifications for digital footprints: passive digital footprints are collected without implicit and active involvement of data subject and active digital footprints that people deliberately create and share (Pew 2007).
+
 Traditional methods for capturing social networks - for example through surveys - are for practical reasons often limited in scope. Availability of computational tools and large-scale data sets, such as those automatically collected from mobile phone networks and social media sites provide researchers and developers new perspectives on people's daily behavior. Recently data driven approaches outside the computer science disciplines has gained popularity. Examples are computational sociology (Lazer et al 2009), social physics (Pentland, 2014) and digital humanities (Gold, 2012). 
 
 Data driven approaches and network science can be used to study how ideas are flowing and how people are changing their behavior. Many aspects of human behavior are more related to the frequency of interaction and their position in the network than to the content of communication. In his book “Social physics” Pentland refers to Granovetter's well-known theory of weak ties (Granovetter, 1973). To get new ideas, you have to go outside your near community (strong ties) and meet different people in new situations (weak ties). People tend to bind strong ties to people who are similar and if you communicate only with similar people, same "truths" are circulated and repeated.
@@ -52,8 +54,8 @@ Related to my first research objective “Privacy aware use of personal data in 
 **Figure 1:** Suggested models for sustainable use of personal data in research - (middle) database of personal data of many individuals hosted by an organization such as teleoperator, the whole database is accessible only internally by the organization (left) individual has access to her own data via MyData API  and she can consent and direct it to external data user such as Mobility as a Service (MaaS) -provider or donate to research purposes (right) researchers can send analysis code to be run in a safe sandbox where the results are computed with the raw data of multiple individuals but only non-personal aggregated summary data is sent out for the researcher.
 
 
-> **Paper 1: Privacy and reproducibility in urban studies**
-*Survey on contemporary urban science literature - What kind of personal data is used and is most useful in the field of urban science and how the privacy issues are taken into account? How important the data sharing and reproducibility is seen among the urban studies? Is there evidence of benefits of open science in the field? What are the major barriers, risks and costs related to open reproducible urban science?*
+> **Paper 1: Digital footprint data and privacy in urban studies**
+*I examine the state-of-the-practice of collecting 2010's citizen's personal footprint for research purposes. What kind of digital footprint data is created in different registries, online services etc. about test subjects (young urban adults living in the Helsinki metropolitan area). The focus is in gaining coverage of as many different representative registry data sets as possible and study the potential utility and related barriers and costs of using digital footprint data for  open reproducible urban science.*
 
 > **Paper 2: Data donation model for personal urban data**
 *MyData -model for data donations - What motivates people to donate their data to science in different areas such as personal health, personal mobility, personal finances etc? How the voluntary based data donations can be used scientifically to obtain valid non-biased conclusions?*
@@ -117,6 +119,8 @@ Before starting my dissertation I have worked in developing solutions for the op
 **Bettencourt**, Luis, and Geoffrey West. 2010. “A Unified Theory of Urban Living.” Nature 467 (7318): 912–13. doi:10.1038/467912a.
 
 **Gonzalez**, Marta C., Cesar A. Hidalgo, and Albert-Laszlo Barabasi. 2008. “Understanding Individual Human Mobility Patterns.” Nature 453 (7196): 779–82.
+
+**Gencoglu**, Oguzhan, Heidi Similä, Harri Honko, and Minna Isomursu. 2015. “Collecting a Citizen’s Digital Footprint for Health Data Mining,” (submitted for publication).
 
 **Glaeser**, Edward. 2011. Triumph of the City: How Our Greatest Invention Makes Us Richer, Smarter, Greener, Healthier, and Happier. Penguin Group US.
 
