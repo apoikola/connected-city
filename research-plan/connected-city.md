@@ -1,7 +1,7 @@
 ## Using individuals’ digital spatial footprint data in planning urban services
 Open science approach for supporting evidence-based urban planning and decision making.
 
-**Research plan for doctoral thesis [DRAFT 17.4.2015](#)**
+**Research plan for doctoral thesis [DRAFT 20.4.2015](#)**
 Antti Poikola
 Helsinki Institute for Information Technology
 Espoo, Finland
@@ -20,7 +20,7 @@ Despite their diversity the cities seem to manifest some universal, quantifiable
 
 In networks higher density of relationships (ties) facilitate the information flow and therefore it is suggested that population density, rather than population size would be at the root of the extraordinary nature of urban centers (Pan et al 2013). Population density is reasonably good proxy for the density of relationships which is harder to measure empirically. There is universal agreement on the fact that populations interact with one another less as the distance increases between them, but the exact relationship between these two variables is unclear (Scellato et al 2011). Denser urban areas (shorter distances between people and places) as well as better urban accessibility (less travel time also in the case of greater physical distances) make it easier and more probable to create relationships.
 
-#### Science of urban networks
+#### Science of social and spatial urban networks
 Michael Batty argues that the networks of human interactions are considerably more important to our understanding and planning of cities than are locations (Batty, 2013). Both social networks and spatial location based networks can be analysed by applying the network theory (Barabási, 2002). In modern sociology analysing social relationships in terms of network theory has emerged a key technique.
 
 In urban studies the network metaphor has a long tradition particularly when dealing with spatial networks such as transportation and mobility. After the seminal work of Hillier and Hanson (Hillier and Hanson, 1984), a rather consistent application of the network approach to cities, neighbourhoods, streets and even single buildings, has been developed under the notion of "space syntax", establishing a correlation between the topological accessibility of streets and phenomena as diverse as their popularity, human way-finding, safety against criminality, retail commerce vitality, activity separation and pollution. (Porta et al 2006)
@@ -81,21 +81,21 @@ Related to my first research objective “Privacy aware use of personal data in 
 > **Paper 3: Generating individual space-time-paths from digital footprint data**
 *Continuous location data such as GPS tracking data alone provides useful information of where and when people are located, but does not indicate why people are at particular locations at certain times. In this paper I study the possibility to generate individual space-time-paths from GPS tracking data enriched with other automatically recorded digital footprint data such as social media services, loyalty cards, payment transactions, mobile phone usage etc.*
 
-#### Objective 2: Actionable tools to urban planning and policy
+#### Objective 2: Actionable tools to urban planning and service production
 
-A longstanding preoccupation of urban researchers has been the utility of research to inform real life urban planning and policy. Decision making in cities’ political and economical reality is always complex process involving many individuals and groups with different opinions. In order to have an impact, scientific findings need to be polished to the level of understandable tools and concepts that the citizens, policy makers and planners are able and willing to use.
+A longstanding preoccupation of urban researchers has been the utility of research to inform real life urban planning and service production. Decision making in cities’ political and economical reality is always complex process involving many individuals and groups with different opinions. In order to have an impact, scientific findings need to be polished to the level of understandable tools and concepts that the citizens, decision makers and planners are able and willing to use.
 
-There is evidence that stakeholders and the public are much more likely to accept scientific findings and policy decisions when they know that the results have been vetted through a transparent, open process (Dietz and Stern 2008). Soranno et al (2015) suggest that science-policy interactions are becoming more inclusive, including diverse groups of people at the tables of research, decision making, policy, and public debate. For this inclusive model of science-policy interactions to work, however, scientists need to make their data publicly available (Figure 2.).
+There is evidence that stakeholders and the public are much more likely to accept scientific findings and policy decisions when they know that the results have been vetted through a transparent, open process (Dietz and Stern 2008). Soranno et al (2015) suggest that science-policy interactions are becoming more inclusive, including diverse groups of people at the tables of research, decision making, policy, and public debate. For this inclusive model of science-policy interactions to work, however, scientists as well as city planners and consulting companies need to make their data publicly available (Figure 3.).
 
-![](fig01.png)
-**Figure 3:** Two models that describe science-policy interactions among scientists, policymakers, stakeholders, and the public and their relationships to data, knowledge, and decisions. (a) The deficit-linear model has been more common historically, whereas (b) the roundtable model is becoming more common today (Soranno et al 2015).
+![](fig03.png)
+**Figure 3:** Two models that describe science-policy interactions among scientists, planners, policymakers, stakeholders, and the public and their relationships to data, knowledge, and decisions. (a) The deficit-linear model has been more common historically, whereas (b) the roundtable model is becoming more common today (modified after Soranno et al 2015).
 
-In the context of applying scientific knowledge to urban planning and decision making it is helpful to make clear distinction between positive and normative perspectives on the world. Positive thinking focuses on factual evidence and is descriptive (“what is”), while normative thinking incorporate the opinions and underlying morals and is therefore prescriptive (“what should be”). Planning and policy making are mainly normative activities, which can be informed by positive theory (Harris, 1983). Scientific research often involves both positive and normative elements (Páez et al. 2012).
+Besides planning decisions accurate and timely data streams can be also used more directly to inform decisions related to urban service production such as planning the public transport routes based on mobile phone location data (Townsend 2013) and finding the best locations for bike-share docking stations based on the automatically collected bike usage data (O’Brien 2014).
 
 Related to my second research objective “Actionable tools to urban planning and policy” I will study evidence-based practice (Krizek et al. 2009) from both positive and normative perspectives. First by trying to replicate findings of large scale personal data and urban network studies (ex. Gonzalez et al 2008, Ahas et al 2010, Louail et al 2014) in the city of Helsinki and second by applying the gained knowledge to inform one actual planning- or decision making situation in the city.
 
-> **Paper 4: Open science with private data - replicating urban sensing studies**
-*How the findings of large scale mobile phone data studies in other cities are similar or different in one example city Helsinki and how the acquired knowledge relate and could be used to inform planning and policymaking locally? Based on earlier papers on urban personal data my aim is to create research data environment which makes it easy for others reproduce the findings and do further research with the same data.*
+> **Paper 4: City as a platform for creating social connections**
+*An important benefit of cities is that they enhance the idea flow by bringing people together and facilitating interaction between groups and individuals with diverse backgrounds. On the other hand inside cities the residential areas are often (to some degree) segregated which may decrease the likelihood of connections between dissimilar people. Based on individuals' mobility patterns I will analyze what kind of physical, social- and cultural arrangements and spaces in the city of Helsinki support mixing of residents from different areas.*
 
 > **Paper 5: Urban planning and policy**
 *Field study on the implementing the results of urban sensing study in a actual planning or decision making situation in the city  - how scientific knowledge on human interaction in cities can be put into practice in reality?*
@@ -126,8 +126,6 @@ Before starting my dissertation I have worked in developing solutions for the op
 
 ### 5. References
 
-### 5. References
-
 **Ahas**, Rein, Anto Aasa, Siiri Silm, and Margus Tiru. 2010. “Daily Rhythms of Suburban Commuters’ Movements in the Tallinn Metropolitan Area: Case Study with Mobile Positioning Data.” Transportation Research Part C: Emerging Technologies 18 (1): 45–54.
 
 **Barabási**, Albert-László. 2002. Linked: The New Science of Networks. Perseus Books Group.
@@ -150,8 +148,6 @@ Before starting my dissertation I have worked in developing solutions for the op
 
 **Granovetter**, Mark S. 1973. “The Strength of Weak Ties.” American Journal of Sociology, 1360–80.
 
-**Harris**, Britton. 1983. “Positive and Normative Aspects of Modelling Large-Scale Social Systems.” In Systems Analysis in Urban Policy-Making and Planning, 475–90. Springer.
-
 **Hägerstrand**, Torsten. 1970. “What about People in Regional Science?” Papers of the Regional Science Association 24 (1): 6–21. doi:10.1007/BF01936872.
 
 **Jacobs**, Jane. 1961. The Death and Life of Great American Cities. Vintage Books.
@@ -168,7 +164,7 @@ Before starting my dissertation I have worked in developing solutions for the op
 
 **Molloy**, Jennifer C. 2011. “The Open Knowledge Foundation: Open Data Means Better Science.” PLoS Biology 9 (12). doi:10.1371/journal.pbio.1001195.
 
-**Páez**, Antonio, Darren M. Scott, and Catherine Morency. 2012. “Measuring Accessibility: Positive and Normative Implementations of Various Accessibility Indicators.” Journal of Transport Geography 25: 141–53.
+**O’Brien**, Oliver, James Cheshire, and Michael Batty. 2014. “Mining Bicycle Sharing Data for Generating Insights into Sustainable Transport Systems.” Journal of Transport Geography 34 (January): 262–73. doi:10.1016/j.jtrangeo.2013.06.007.
 
 **Pan**, Wei, Gourab Ghoshal, Coco Krumme, Manuel Cebrian, and Alex Pentland. 2013. “Urban Characteristics Attributable to Density-Driven Tie Formation.” Nature Communications 4 (June). doi:10.1038/ncomms2961.
 
