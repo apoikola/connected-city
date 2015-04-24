@@ -1,7 +1,7 @@
 ## Using individuals’ digital spatial footprint data in planning urban services
 Open science approach for supporting evidence-based urban planning and decision making.
 
-**Research plan for doctoral thesis [DRAFT 20.4.2015](#)**
+**Research plan for doctoral thesis [DRAFT 24.4.2015](#)**
 Antti Poikola
 Helsinki Institute for Information Technology
 Espoo, Finland
@@ -55,19 +55,17 @@ The data driven approaches open up possibilities for the systematic study of the
 
 ### 2. Objectives and methods
 
-My thesis will consist of a summary and five scientific articles in international peer-reviewed open access journals. I will be the principal author in most of the papers. The planned papers are divided in groups based on their objectives.
+My thesis will consist of four scientific articles in international peer-reviewed open access journals and a strong introduction. I will be the principal author in all papers. The papers respond to my principal research objective “Privacy aware use of digital footprint data in open and reproducible urban science”. The introduction summarizes the scientific findings and related business development experience where I apply the results to inform service production.
 
-#### Objective 1: Privacy aware use of digital footprint data in open and reproducible urban science
+#### Objective 2: Privacy aware use of digital footprint data in open and reproducible urban science
 
-Reproducibility -other experimenters are able to recompute the results- and replicability -others can achieve a consistent result- are two foundational characteristics of successful scientific research (Leeks 2015). The open science movement is driven by the recognition that reproducing and building on top of others research can be made more challenging by lack of access to published articles as well as analysis code and raw data (Whyte and Pryor, 2011). On the other hand, when barriers are broken down, great progress can be made rapidly. For example, the Human Genome Project is a clear demonstration of open sharing of data leading to incredible advances in biology in short time and huge economic benefits (Tripp & Grueber, 2011). Many funders, publishers, scientists, and other stakeholders in research are calling for more research data to be made openly available in order to increase transparency, reproducibility and efficiency of the scientific process (Molloy, 2011).
+Reproducibility -other experimenters are able to recompute the results- and replicability -others can achieve a consistent result- are two foundational characteristics of successful scientific research (Leeks 2015). The open science movement is driven by the recognition that reproducing and building on top of others research can be made more challenging by lack of access to published articles as well as analysis code and raw data (Whyte and Pryor, 2011). On the other hand, when barriers are broken down, great progress can be made rapidly. For example, the Human Genome Project is a clear demonstration of open sharing of data leading to incredible advances in biology in short time and huge economic benefits (Tripp & Grueber, 2011). Many funders, publishers, scientists, and other stakeholders in research are calling for more research data to be made openly available in order to increase transparency, reproducibility and efficiency of the scientific process (Molloy, 2011). There is also evidence that stakeholders and the public are much more likely to accept scientific findings and policy decisions when they know that the results have been vetted through a transparent, open process (Dietz and Stern 2008).
 
 Usual barriers in making research data publicly available are technological —particularly when the data are heterogeneous and not standardized and lack of incentives for individuals to share data (Reichman et al. 2011). Online data repositories, metadata standards, journals devoted to publishing data, and new measures of impact are being developed to overcome these barriers and in some disciplines, such as meteorology, astronomy and biology there has already been a shift in the norms toward sharing data (Soranno et al 2015).
 
 Even if the above mentioned barriers can be overcome in the future big part of the scientifically interesting data can never be open since it is originated from individuals and therefore personal and private by nature. In urban science personal data such as mobile phone data offer vast opportunities for understanding social interaction in cities, but there are sticky legal and ethical issues around the privacy and consent of research subjects. In many cases privacy issues are structural - one can not study society without studying people at some level. Furthermore, some of the most scientifically valuable data are proprietary (e.g., mobile phone and financial transactional data). Robust models of collaboration and data sharing between industry such as tele operators and the academy need to be developed; guarding both the privacy of individuals as well as corporations' legitimate interests (Lazer et al 2009).
 
 At HIIT there is on going research focusing on human centered data sharing and management model called MyData. The key idea is that every individual should be able to access, use and control all personal data collected about them and if they wish delegate this data to other organisations and applications for legal use (Poikola et al 2014). There is evidence that people will voluntarily give up their data if they can see a personal or societal benefit in it (Frost and Massagli 2008).
-
-Related to my first research objective “Privacy aware use of personal data in open and reproducible urban science” I will make a literature survey on the current usage of personal data and study (a) voluntary data donation model and (b) Research API sandbox model (Figure 1.) for sustainable use of personal data in open and reproducible urban science.
 
 ![](fig02.jpg)
 **Figure 2:** Suggested models for sustainable use of personal data in research - (middle) database of personal data of many individuals hosted by an organization such as teleoperator, the whole database is accessible only internally by the organization (left) individual has access to her own data via MyData API  and she can consent and direct it to external data user such as Mobility as a Service (MaaS) -provider or donate to research purposes (right) researchers can send analysis code to be run in a safe sandbox where the results are computed with the raw data of multiple individuals but only non-personal aggregated summary data is sent out for the researcher.
@@ -81,31 +79,23 @@ Related to my first research objective “Privacy aware use of personal data in 
 > **Paper 3: Generating individual space-time-paths from digital footprint data**
 *Continuous location data such as GPS tracking data alone provides useful information of where and when people are located, but does not indicate why people are at particular locations at certain times. In this paper I study the possibility to generate individual space-time-paths from GPS tracking data enriched with other automatically recorded digital footprint data such as social media services, loyalty cards, payment transactions, mobile phone usage etc.*
 
+>**Paper 4: City as a platform for creating social connections**
+*An important benefit of cities is that they enhance the idea flow by bringing people together and facilitating interaction between groups and individuals with diverse backgrounds. On the other hand inside cities the residential areas are often (to some degree) segregated which may decrease the likelihood of connections between dissimilar people. Based on individuals' mobility patterns I will analyse what kind of physical, social- and cultural arrangements and spaces in the city of Helsinki support mixing of residents from different areas.*
+
 #### Objective 2: Actionable tools to urban planning and service production
 
-A longstanding preoccupation of urban researchers has been the utility of research to inform real life urban planning and service production. Decision making in cities’ political and economical reality is always complex process involving many individuals and groups with different opinions. In order to have an impact, scientific findings need to be polished to the level of understandable tools and concepts that the citizens, decision makers and planners are able and willing to use.
+How scientific knowledge on human interaction in cities can be put into practice in reality? A longstanding preoccupation of urban researchers has been the utility of research to inform real life situations in urban planning, decision making and service production. Accurate and timely data streams can be used to inform decisions related to urban service production such as planning the public transport routes based on mobile phone location data (Townsend 2013) and finding the best locations for bike-share docking stations based on the automatically collected bike usage data (O’Brien 2014). However, evidence-based practice (Krizek et al. 2009) approaches are not easy to implement in cities’ complex political and economical reality where decision making processes usually involve many individuals and groups with different opinions.
 
-There is evidence that stakeholders and the public are much more likely to accept scientific findings and policy decisions when they know that the results have been vetted through a transparent, open process (Dietz and Stern 2008). Soranno et al (2015) suggest that science-policy interactions are becoming more inclusive, including diverse groups of people at the tables of research, decision making, policy, and public debate. For this inclusive model of science-policy interactions to work, however, scientists as well as city planners and consulting companies need to make their data publicly available (Figure 3.).
+In order to have an impact, scientific findings need to be polished to the level of understandable tools and concepts that the citizens, decision makers and planners are able and willing to use. The final productization of such tools is non-academic activity best accomplished by private businesses or nonprofits.
 
-![](fig03.png)
-**Figure 3:** Two models that describe science-policy interactions among scientists, planners, policymakers, stakeholders, and the public and their relationships to data, knowledge, and decisions. (a) The deficit-linear model has been more common historically, whereas (b) the roundtable model is becoming more common today (modified after Soranno et al 2015).
-
-Besides planning decisions accurate and timely data streams can be also used more directly to inform decisions related to urban service production such as planning the public transport routes based on mobile phone location data (Townsend 2013) and finding the best locations for bike-share docking stations based on the automatically collected bike usage data (O’Brien 2014).
-
-Related to my second research objective “Actionable tools to urban planning and policy” I will study evidence-based practice (Krizek et al. 2009) from both positive and normative perspectives. First by trying to replicate findings of large scale personal data and urban network studies (ex. Gonzalez et al 2008, Ahas et al 2010, Louail et al 2014) in the city of Helsinki and second by applying the gained knowledge to inform one actual planning- or decision making situation in the city.
-
-> **Paper 4: City as a platform for creating social connections**
-*An important benefit of cities is that they enhance the idea flow by bringing people together and facilitating interaction between groups and individuals with diverse backgrounds. On the other hand inside cities the residential areas are often (to some degree) segregated which may decrease the likelihood of connections between dissimilar people. Based on individuals' mobility patterns I will analyze what kind of physical, social- and cultural arrangements and spaces in the city of Helsinki support mixing of residents from different areas.*
-
-> **Paper 5: Urban planning and policy**
-*Field study on the implementing the results of urban sensing study in a actual planning or decision making situation in the city  - how scientific knowledge on human interaction in cities can be put into practice in reality?*
+As part of my doctoral studies I will apply to the EIT ICT Labs Innovation and entrepreneurship (I&E) program for doctoral students which includes minimum six months’ business development experience in a company. During the business development experience I will bring results and methods of the earlier papers to inform service production. I will summarize the experiences and gained insights into the introductory part of my dissertation.
 
 ### 3. Ethical questions
 The use of large data sets and social network analysis in urban research raises important questions about ethics and privacy. Protecting privacy of individuals is even more challenging when the aim is to create reproducible open science, which means publishing also the research data openly. Central part of my dissertation (My Data) focuses on ethically sustainable and privacy aware way of using personal data for research.
 
 Other perhaps less prominent ethical questions relate to the outcomes of the research. Anthony M. Townsend warns about technology enthusiasm by reminding how in the 1930s modernist planners began rebuilding cities around a new technology, the automobile, without considering the potential negative effects. Today the “Data enthusiasm” is fueling the new scientific interest in cities. But even the biggest urban datasets are likely to prove incomplete and trying to understand the behaviour of something as complex as a city solely by computing large masses of data may not lead to best outcomes. (Townsend, 2013)
 
-It is crucially important to set question right - what do we want to optimise in a city? Gains in efficiency often lead to “rebound” consumption. For example the cities may be greener since they offer a means of living that involves less driving and smaller homes to heat and cool (Glaeser, 2011), but at the same time city dwellers are are earning more and consuming other goods more which may cancel the positive “green” effect.
+It is crucially important to set question right - what do we want to optimise in a city? Gains in efficiency often lead to “rebound” consumption. For example the cities may be greener since they offer a means of living that involves less driving and smaller homes to heat and cool (Glaeser, 2011), but at the same time city dwellers are earning more and consuming other goods more which may cancel the positive “green” effect.
 
 ### 4. Schedule and research environment
 
@@ -114,15 +104,29 @@ It is crucially important to set question right - what do we want to optimise in
 ![](table01.png)
 
 *Table 2:Preliminary study plan*
-TBC  
 
-**Funding for the studies**
+**Selected courses from the Helsinki University (21 cr)**
+929101       Research Funding and Impact (2 cr)
+50067        Research Ethics (3 cr)
+50065        Scientific Writing (2 cr)
+50066        Conference presentation (2 cr)
+58315104     Social Networks Analysis for Communication Networks (4 cr)
+Comparative Urban Research (5 cr)
+City and Culture (5 cr)
+
+**[Data Science Specialization on Coursera](https://www.coursera.org/specialization/jhudatascience/1) (10 cr)**
+The Data Science Specialization offered by Johns Hopkins University on Coursera. Specialization consists of eight four week MOOC courses and a Capstone project where students will apply the skills learned throughout the courses. Specialization courses: : The Data Scientist’s Toolbox, R Programming, Getting and Cleaning Data, Exploratory Data Analysis, Reproducible Research, Statistical Inference, Regression Models, Practical Machine Learning, Developing Data Products, Data Science Capstone.
+
+**[EIT ICT Labs Innovation and entrepreneurship (I&E) program](http://doctoralschool.eitictlabs.eu/ie-education/) (30 cr)**
+The EIT ICT Labs Innovation and entrepreneurship (I&E) program is composed of four intensive business competence courses courses, six months’ researcher exchange and six months’ business development experience. EIT ICT Labs combines education, research and business in thematic areas, called action lines. Thematically my doctoral thesis is well aligned with the action line Urban Life & Mobility.
+
+#### Funding for the studies
 Funding for this research is fully granted for the year of 2015 from two TEKES projects namely: *[Digital Health Revolution](www.digitalhealthrevolution.fi/)* and *[Revolution of Knowledge Work](http://reknow.fi/)*. Further funding for my PhD studies will be applied later on. I have planned to join to *[DENVI](http://www.helsinki.fi/henvi/denvi/)* (Doctoral Program in interdisciplinary Environmental sciences) as my postgraduate school after I have received a right to pursue PhD studies at the University of Helsinki.
 
-**Supervision and collaboration networks**
+#### Supervision and collaboration networks
 Principal supervisor for my thesis will be Ph.D. Tuuli Toivonen (*[Helsinki University](http://www.helsinki.fi/geo/)*) who has great expertise of the topics covered in this research. Ph.D. Marko Turpeinen ([*HIIT*](http://hiit.fi/)) will be thesis advisor monitoring the progress of my PhD thesis and studies.
 
-Before starting my dissertation I have worked in developing solutions for the open collaboration between citizens and the public sector organizations. I am well connected in Open Data, Open Science and My Data movements in Finland and elsewhere. I believe that my experience and networks are highly valuable during the process of doing my PhD thesis.
+Before starting my dissertation I have worked in developing solutions for the open collaboration between citizens and the public sector organizations. I am well connected in Open Data, Open Science and My Data movements in Finland and elsewhere. The city as a context is my passion and underlying motivation for PhD studies. I believe that working tightly in two research groups one at the Helsinki University Division of Urban Geography and Regional Studies and the other one at HIIT (*[Digital Content Communities group](http://www.hiit.fi/digital-content-communities)*) gives me valuable support during the process of doing my PhD thesis.
 
 ### 5. References
 
