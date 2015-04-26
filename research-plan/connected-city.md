@@ -1,5 +1,5 @@
 ---
-output: pdf_document
+output: html_document
 ---
 ## Using individuals’ digital spatial footprint data in planning urban services
 
@@ -45,7 +45,7 @@ Network science can be used to study how ideas are flowing and how people are ch
 #### Time geography
 It is important to recognize also the temporal dimension of human activities - even if the office employee and the night guard both frequent the same office building daily their paths may actually never intersect. Swedish geographers associated with Torsten Hägerstrand (1970) developed elegant conceptual framework called time geography and the concept of a space-time path to illustrate individual's activities and movements during a day. Space-time-path is a continuous sequence in three-dimensional space where x and y -axis are the location coordinates and the z axis represent time. When considering the social interaction and tie formation in cities it is interesting to study when and where people actually meet each others - where their space-time-paths intersect.
 
-![](timespace.png)
+![](images/timespace.png)
 **Figure 1:** On the left space-time system and space-time-path of one individual (Chen et al 2011) and on the right space-time-paths of three individuals and meetings where two people are at the same place at the same time (after Hägerstrand).
 
 #### Data driven research of social interaction in cities
@@ -69,7 +69,7 @@ Even if the above mentioned barriers can be overcome in the future big part of t
 
 At HIIT there is on going research focusing on human centered data sharing and management model called MyData. The key idea is that every individual should be able to access, use and control all personal data collected about them and if they wish delegate this data to other organisations and applications for legal use (Poikola et al 2014). There is evidence that people will voluntarily give up their data if they can see a personal or societal benefit in it (Frost and Massagli 2008).
 
-![](fig02.jpg)
+![](images/mydata.jpg)
 **Figure 2:** Suggested models for sustainable use of personal data in research - (middle) database of personal data of many individuals hosted by an organization such as teleoperator, the whole database is accessible only internally by the organization (left) individual has access to her own data via MyData API and she can consent and direct it to external data user such as Mobility as a Service (MaaS) -provider or donate to research purposes (right) researchers can send analysis code to be run in a safe sandbox where the results are computed with the raw data of multiple individuals but only non-personal aggregated summary data is sent out for the researcher.
 
 > **Paper 1: Individual's spatiotemporal digital footprint as a source for information in planning mobility services**
