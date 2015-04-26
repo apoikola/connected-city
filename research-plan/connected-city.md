@@ -1,5 +1,7 @@
+---
+output: pdf_document
+---
 ## Using individuals’ digital spatial footprint data in planning urban services
-Open science approach for supporting evidence-based urban planning and decision making.
 
 **Research plan for doctoral thesis [DRAFT 24.4.2015](#)**
 Antti Poikola
@@ -43,7 +45,7 @@ Network science can be used to study how ideas are flowing and how people are ch
 #### Time geography
 It is important to recognize also the temporal dimension of human activities - even if the office employee and the night guard both frequent the same office building daily their paths may actually never intersect. Swedish geographers associated with Torsten Hägerstrand (1970) developed elegant conceptual framework called time geography and the concept of a space-time path to illustrate individual's activities and movements during a day. Space-time-path is a continuous sequence in three-dimensional space where x and y -axis are the location coordinates and the z axis represent time. When considering the social interaction and tie formation in cities it is interesting to study when and where people actually meet each others - where their space-time-paths intersect.
 
-![](assets/timespace.png)
+![](timespace.png)
 **Figure 1:** On the left space-time system and space-time-path of one individual (Chen et al 2011) and on the right space-time-paths of three individuals and meetings where two people are at the same place at the same time (after Hägerstrand).
 
 #### Data driven research of social interaction in cities
@@ -68,7 +70,7 @@ Even if the above mentioned barriers can be overcome in the future big part of t
 At HIIT there is on going research focusing on human centered data sharing and management model called MyData. The key idea is that every individual should be able to access, use and control all personal data collected about them and if they wish delegate this data to other organisations and applications for legal use (Poikola et al 2014). There is evidence that people will voluntarily give up their data if they can see a personal or societal benefit in it (Frost and Massagli 2008).
 
 ![](fig02.jpg)
-**Figure 2:** Suggested models for sustainable use of personal data in research - (middle) database of personal data of many individuals hosted by an organization such as teleoperator, the whole database is accessible only internally by the organization (left) individual has access to her own data via MyData API  and she can consent and direct it to external data user such as Mobility as a Service (MaaS) -provider or donate to research purposes (right) researchers can send analysis code to be run in a safe sandbox where the results are computed with the raw data of multiple individuals but only non-personal aggregated summary data is sent out for the researcher.
+**Figure 2:** Suggested models for sustainable use of personal data in research - (middle) database of personal data of many individuals hosted by an organization such as teleoperator, the whole database is accessible only internally by the organization (left) individual has access to her own data via MyData API and she can consent and direct it to external data user such as Mobility as a Service (MaaS) -provider or donate to research purposes (right) researchers can send analysis code to be run in a safe sandbox where the results are computed with the raw data of multiple individuals but only non-personal aggregated summary data is sent out for the researcher.
 
 > **Paper 1: Individual's spatiotemporal digital footprint as a source for information in planning mobility services**
 *I examine the state-of-the-practice of collecting individual's spatiotemporal digital footprint data for research purposes. What kind of digital footprint data is created in different registries, online services etc. about test subjects (young urban adults living in the Helsinki metropolitan area), and how it could be used in planning novel mobility services? The focus is in gaining coverage of as many typical registry data sets as possible where the data includes both spatial and temporal component. I evaluate the characteristics, quality, potential utility and related barriers of use of different data sources.*
@@ -97,36 +99,47 @@ Other perhaps less prominent ethical questions relate to the outcomes of the res
 
 It is crucially important to set question right - what do we want to optimise in a city? Gains in efficiency often lead to “rebound” consumption. For example the cities may be greener since they offer a means of living that involves less driving and smaller homes to heat and cool (Glaeser, 2011), but at the same time city dwellers are earning more and consuming other goods more which may cancel the positive “green” effect.
 
-### 4. Schedule and research environment
+### 4. Research environment and schedule
+
+Principal supervisor for my thesis will be Ph.D. Tuuli Toivonen (*[Helsinki University](http://www.helsinki.fi/geo/)*) who has great expertise of the topics covered in this research. Ph.D. Marko Turpeinen ([*HIIT*](http://hiit.fi/)) will be thesis advisor monitoring the progress of my PhD dissertation and studies.
+
+I plan to join *[DENVI](http://www.helsinki.fi/henvi/denvi/)* (Doctoral Program in interdisciplinary Environmental sciences) as my postgraduate school after I have received a right to pursue PhD studies at the University of Helsinki. I will be working tightly in two research groups, one at the Helsinki University Division of Urban Geography and Regional Studies, and the other one at HIIT (*[Digital Content Communities group](http://www.hiit.fi/digital-content-communities)*). I believe that these interdiciplinary networks give me valuable support during the process of PhD studies.
+
+Funding for this research is fully granted for the year of 2015 from two TEKES projects namely: *[Digital Health Revolution](www.digitalhealthrevolution.fi/)* and *[Revolution of Knowledge Work](http://reknow.fi/)*. Further funding for my PhD studies will be applied later on.
+
+Before starting my dissertation I have worked in developing solutions for the open collaboration between citizens and the public sector organizations. I am well connected in Open Data, Open Science and My Data movements in Finland and elsewhere. The city as a context is my passion and underlying motivation for PhD studies.
 
 *Table 1: Preliminary schedule of completing PhD dissertation*
 
-![](table01.png)
+|                                                       | 2015 | 2016 | 2017 | 2018 | 2019 |
+|-------------------------------------------------------|:----:|:----:|:----:|:----:|:----:|
+| Pre-analysis and specifying the research proposal     |   X  |      |      |      |      |
+| Paper I                                               |   X  |   X  |      |      |      |
+| Paper II                                              |   X  |   X  |      |      |      |
+| Paper III                                             |      |   X  |   X  |      |      |
+| Research exchange                                     |      |      |   X  |      |      |
+| Paper IV                                              |      |      |   X  |   X  |      |
+| Business development experience                       |      |      |      |   X  |      |
+| Finalising the dissertation                           |      |      |      |   X  |   X  |
+
 
 *Table 2:Preliminary study plan*
 
-**Selected courses from the Helsinki University (21 cr)**
-929101       Research Funding and Impact (2 cr)
-50067        Research Ethics (3 cr)
-50065        Scientific Writing (2 cr)
-50066        Conference presentation (2 cr)
-58315104     Social Networks Analysis for Communication Networks (4 cr)
-Comparative Urban Research (5 cr)
-City and Culture (5 cr)
+|                                                               | Credits |  Code  |  Year  |
+|---------------------------------------------------------------|:-------:|:------:|:------:|
+| Research Funding and Impact                                   | 2       | 929101 | 2015   |
+| Research Ethics                                               | 3       | 50067  | 2015   |
+| Scientific Writing                                            | 2       | 50065  | 2015   |
+| Conference presentation                                       | 2       | 50066  | 2016   |
+| Comparative Urban Research                                    | 5       |        | 2016   |
+| Social Networks Analysis for Communication Networks           | 4       |        | 2016   |
+| City and Culture                                              | 5       |        | 2016   |
+| Data Science Specialization on Coursera (a)                   | 10      |        | 2016   |
+| EIT ICT Labs Innovation and entrepreneurship program (b)      | 30      |        | 2017-2019 |
 
-**[Data Science Specialization on Coursera](https://www.coursera.org/specialization/jhudatascience/1) (10 cr)**
-The Data Science Specialization offered by Johns Hopkins University on Coursera. Specialization consists of eight four week MOOC courses and a Capstone project where students will apply the skills learned throughout the courses. Specialization courses: : The Data Scientist’s Toolbox, R Programming, Getting and Cleaning Data, Exploratory Data Analysis, Reproducible Research, Statistical Inference, Regression Models, Practical Machine Learning, Developing Data Products, Data Science Capstone.
+(a) [Data Science Specialization on Coursera](https://www.coursera.org/specialization/jhudatascience/1) offered by Johns Hopkins University on Coursera consists of eight MOOC courses and a Capstone project where students will apply the learned skills. Specialization courses are: *The Data Scientist’s Toolbox, R Programming, Getting and Cleaning Data, Exploratory Data Analysis, Reproducible Research, Statistical Inference, Regression Models, Practical Machine Learning, Developing Data Products, Data Science Capstone*.
 
-**[EIT ICT Labs Innovation and entrepreneurship (I&E) program](http://doctoralschool.eitictlabs.eu/ie-education/) (30 cr)**
-The EIT ICT Labs Innovation and entrepreneurship (I&E) program is composed of four intensive business competence courses courses, six months’ researcher exchange and six months’ business development experience. EIT ICT Labs combines education, research and business in thematic areas, called action lines. Thematically my doctoral thesis is well aligned with the action line Urban Life & Mobility.
-
-#### Funding for the studies
-Funding for this research is fully granted for the year of 2015 from two TEKES projects namely: *[Digital Health Revolution](www.digitalhealthrevolution.fi/)* and *[Revolution of Knowledge Work](http://reknow.fi/)*. Further funding for my PhD studies will be applied later on. I have planned to join to *[DENVI](http://www.helsinki.fi/henvi/denvi/)* (Doctoral Program in interdisciplinary Environmental sciences) as my postgraduate school after I have received a right to pursue PhD studies at the University of Helsinki.
-
-#### Supervision and collaboration networks
-Principal supervisor for my thesis will be Ph.D. Tuuli Toivonen (*[Helsinki University](http://www.helsinki.fi/geo/)*) who has great expertise of the topics covered in this research. Ph.D. Marko Turpeinen ([*HIIT*](http://hiit.fi/)) will be thesis advisor monitoring the progress of my PhD thesis and studies.
-
-Before starting my dissertation I have worked in developing solutions for the open collaboration between citizens and the public sector organizations. I am well connected in Open Data, Open Science and My Data movements in Finland and elsewhere. The city as a context is my passion and underlying motivation for PhD studies. I believe that working tightly in two research groups one at the Helsinki University Division of Urban Geography and Regional Studies and the other one at HIIT (*[Digital Content Communities group](http://www.hiit.fi/digital-content-communities)*) gives me valuable support during the process of doing my PhD thesis.
+(b) [EIT ICT Labs Innovation and entrepreneurship program](http://doctoralschool.eitictlabs.eu/ie-education/) is composed of four intensive business competence courses courses, six months’ researcher exchange and six months’ business development experience. EIT ICT Labs combines education, research and business in thematic areas, called action lines. Thematically my doctoral thesis is well aligned with the action line Urban Life & Mobility.
 
 ### 5. References
 
