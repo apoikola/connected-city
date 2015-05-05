@@ -105,6 +105,7 @@ Before starting my dissertation I have worked in developing solutions for the op
 | Business development experience                       |      |      |      |   X  |      |
 | Finalising the dissertation                           |      |      |      |   X  |   X  |
 
+\newpage
 
 *Table 2:Preliminary study plan*
 
