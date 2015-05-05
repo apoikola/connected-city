@@ -4,11 +4,10 @@ output: pdf_document
 bibliography: bibliography.bib
 ---
 
-**Research plan for doctoral thesis [DRAFT 29.4.2015](#)**
+**Research plan for doctoral thesis 5.5.2015**
 
 Antti Poikola - Helsinki Institute for Information Technology, Espoo, Finland - antti.poikola@hiit.fi
 
-*Text can be commented in [http://bit.ly/poikolaresearchplan](http://bit.ly/poikola_research_plan)*
 
 ## Abstract
 My contribution is to develop methods for privacy aware collection and usage of individuals’ digital spatiotemporal footprint data inside the open science framework for reproducible urban science. I will study how the citizens' personal data can be used to observe the social interaction patterns in the cities and to inform planning and production of novel urban services such as personalized mobility. The global urbanization mega trend is underlining the need for quantitative and predictive urban theories that can assist in making the cities greener, safer and better places to live in. In recent years the quest for explanatory urban theory has sped up with hopes for using massive data sets from mobile phones and social media tools to reveal structure and dynamics of the human social networks in urban areas. Data is in the key role: it needs to be shared. Much of it can be found as open data, but perhaps the most important data sets belong to the domain of personal data, which by definition is not open and should be used only with the consent of the individual.
@@ -87,9 +86,9 @@ It is crucially important to set question right - what do we want to optimise in
 ## 4. Research environment and schedule
 Principal supervisor for my thesis will be Ph.D. Tuuli Toivonen (*[Helsinki University](http://www.helsinki.fi/geo/)*) who has great expertise of the topics covered in this research. Ph.D. Marko Turpeinen ([*HIIT*](http://hiit.fi/)) will be thesis advisor monitoring the progress of my PhD dissertation and studies.
 
-I plan to join *[DENVI](http://www.helsinki.fi/henvi/denvi/)* (Doctoral Program in interdisciplinary Environmental sciences) as my postgraduate school after I have received a right to pursue PhD studies at the University of Helsinki. I will be working tightly in two research groups, one at the Helsinki University Division of Urban Geography and Regional Studies, and the other one at HIIT (*[Digital Content Communities group](http://www.hiit.fi/digital-content-communities)*). I believe that these interdiciplinary networks give me valuable support during the process of PhD studies.
+I plan to join *[DENVI](http://www.helsinki.fi/henvi/denvi/)* (Doctoral Program in interdisciplinary Environmental sciences) as my postgraduate school after I have received a right to pursue PhD studies at the University of Helsinki. I will be working tightly in two research groups, *Accessibility Research Group* at the Helsinki University, Department of Geosciences and Geography, Division of Urban Geography and Regional Studies, and *[Digital Content Communities group](http://www.hiit.fi/digital-content-communities)* at HIIT. I believe that these interdiciplinary networks give me valuable support during the process of PhD studies.
 
-Funding for this research is fully granted for the year of 2015 from two TEKES projects namely: *[Digital Health Revolution](www.digitalhealthrevolution.fi/)* and *[Revolution of Knowledge Work](http://reknow.fi/)*. Further funding for my PhD studies will be applied later on.
+I plan to complete the PhD thesis in 5 years. The first two years I will be employed in two TEKES funded projects namely: *[Digital Health Revolution](http://www.digitalhealthrevolution.fi/)* (until 2/2016) and *[Revolution of Knowledge Work](http://reknow.fi/)* (until 4/2017). For the latter three years, I plan to apply for funding from research foundations and/or from the Academy of Finland through my supervisors.
 
 Before starting my dissertation I have worked in developing solutions for the open collaboration between citizens and the public sector organizations. I am well connected in Open Data, Open Science and My Data movements in Finland and elsewhere. The city as a context is my passion and underlying motivation for PhD studies.
 
